@@ -1,0 +1,13 @@
+.itemStyle {
+    border-radius: 8px;
+    font-weight:bold;
+    font-style: italic;
+    margin-bottom: 10px;
+    color: blue;
+  }
+
+  h3 {
+    display: inline-block;
+    background: #af1111;
+    border-radius: 10px;
+  }
